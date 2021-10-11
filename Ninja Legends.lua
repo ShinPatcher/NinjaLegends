@@ -1,4 +1,4 @@
-elseif game.PlaceId == 3956818381 then
+if game.PlaceId == 3956818381 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
     local Window = Library.CreateLib("Ninja Legends", "Sentinel")
  
